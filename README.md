@@ -1,2 +1,2 @@
-# Interest-Calculator
-A bank interest calculator created for a school project
+# Bank Interest Calculator
+A calculator created to compute the interest that would amount from the United Overseas Bank program. A series of while loops, else/if, and time library was used to complete this calculator. 
